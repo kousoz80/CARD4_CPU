@@ -44,3 +44,8 @@ CARD4 CPUのブロック図
 ![enter image description here](https://imgur.com/d8OO1Yi.jpg)
   
   
+動作の様子
+  
+https://www.youtube.com/watch?v=qONswbnE61M
+  
+  
