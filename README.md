@@ -1,4 +1,4 @@
 
-# KARD4_CPU
+# CARD4_CPU
   
 リレー式コンピュータ
