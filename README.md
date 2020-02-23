@@ -2,8 +2,10 @@
 # CARD4_CPU
   
 リレー式コンピュータ
-
+  
+  
 一般的なCPUのブロック図
+  
 ![enter image description here](https://imgur.com/3c7MyOX.jpg)
   
   
