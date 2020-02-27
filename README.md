@@ -1,34 +1,46 @@
 
 # CARD4_CPU
   
-リレー式コンピュータ
+## リレー式コンピュータ
 
 ### ・開発コンセプト
   
-(1) 　 CPUにはリレーを使用　(I/O・メモリは半導体使用可)
+  (1) 　 CPUにはリレーを使用　(I/O・メモリは半導体使用可)
   
-(2) 　使用素子を可能な限り少なく抑える(実効速度等は二の次)　
+  (2) 　使用素子を可能な限り少なく抑える(実効速度等は二の次)　
   
-(3) 　パソコンと通信してプログラムのダウンロードやデバッグができるようにする
+  (3) 　パソコンと通信してプログラムのダウンロードやデバッグができるようにする
+
+  
+![enter image description here](https://imgur.com/dl9AJPW.jpg)
 
 
-### ・一般的なCPUのブロック図
   
-![enter image description here](https://imgur.com/3c7MyOX.jpg)
   
-
+### ・一般的なCPUの構成
+   
+![enter image description here](https://imgur.com/lGrUWV1.jpg) 
+  
+  
+### ・CARD4 CPUの構成
+  
+![enter image description here](https://imgur.com/tk3P1o5.jpg)  
+  
+  
 ### ・CARD4 CPUのブロック図
   
-![enter image description here](https://imgur.com/FEBOjMy.jpg)
+![enter image description here](https://imgur.com/IUl5qlI.jpg)  
+ 
+  
   
   
 ### ・外観
   
-レジスタ(4ビット分)
+  レジスタ(4ビット分)
   
 ![enter image description here](https://imgur.com/zHtFXes.jpg)
   
-バッファ
+  バッファ
   
 ![enter image description here](https://imgur.com/JmSPqQP.jpg)
   
@@ -48,7 +60,25 @@
   
 ![enter image description here](https://imgur.com/d8OO1Yi.jpg)
   
-### ・動作の様子
+### ・シミュレータ
+実行
   
+![enter image description here](https://imgur.com/PyoqBlu.jpg)  
+  
+
+アセンブラソースコードの編集
+  
+![enter image description here](https://imgur.com/xseChi5.jpg)  
+  
+
+### ・アセンブラ命令
+  
+### ・実機の動作の様子
+  
+・操作画面
+  
+  (シミュレータ画面とほぼ同じです)
+    
+・動画
 https://www.youtube.com/watch?v=qONswbnE61M
 
