@@ -77,8 +77,11 @@
   
 ・操作画面
   
-  (シミュレータ画面とほぼ同じです)
-    
+ 画面構成や操作感はシミュレータ画面とほぼ同じです
+   
+![enter image description here](https://imgur.com/4A5fhDC.jpg)
+  
+  
 ・動画
 https://www.youtube.com/watch?v=qONswbnE61M
 
