@@ -21,9 +21,9 @@
 ![enter image description here](https://imgur.com/dl9AJPW.jpg)
 
 
+  まず、一般的なCPUの構成を以下に示します
   
-  
-### 一般的なCPUの構成
+### ・一般的なCPUの構成
    
 ![enter image description here](https://imgur.com/lGrUWV1.jpg) 
   
@@ -56,7 +56,7 @@
   この結果をもとにCPUを再構成してみると以下のようになりました。
   
   
-### 新しく考えた CPUの構成
+### ・新しく考えた CPUの構成
   
 ![enter image description here](https://imgur.com/tk3P1o5.jpg)  
 
@@ -183,7 +183,7 @@
   
   
   
-  ※演算子
+  ※演算子について
   
   基本的な演算の他に以下のような演算子が用意されています。
   
