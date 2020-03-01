@@ -223,5 +223,7 @@
   
 ・動画
   
+  実機の動作する様子をYoutubeで公開しています
+  
 https://www.youtube.com/watch?v=qONswbnE61M
 
