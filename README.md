@@ -38,11 +38,11 @@
 
 
 
-  このCPUの構成をあまり必要ではない要素を削除して使用素子数を削減していきます。
+  このCPUの構成から、あまり必要ではない要素を削除して使用素子数を削減していきます。
   
   (1) 命令デコーダは必要か？
     
-  ・・・命令コードの各ビットを直接制御信号に割り当てるので必要ない。
+  ・・・命令コードの各ビットを直接制御信号に割り当てるので必要ない
   
   (2) プログラムカウンタは必要か？
   
@@ -250,6 +250,83 @@ yyy:
   　
   
 ・演算
+
+  
+  
+ 　 //　アドレスxxxの値を+1する
+  
+　 read 　inc_table_h
+  
+　 read 　inc_table_m
+  
+　 read 　xxx
+  
+　 set.l
+  
+　 read@
+  
+　 write 　xxx
+  
+
+  
+xxx:
+  
+　 data 0
+
+  
+// インクリメント演算用テーブルのアドレス(H)
+  
+　inc_table_h:
+  
+　 data.h　 inc_table.h
+  
+
+// インクリメント演算用テーブルのアドレス(M)
+  
+inc_table_m:
+  
+ data.m　 inc_table.m
+  
+// インクリメント演算用テーブル
+  
+　 align16
+   
+inc_table:
+  
+ 　data 1
+  
+ 　data 2
+  
+ 　data 3
+  
+ 　data 4
+  
+ 　data 5
+  
+ 　data 6
+  
+ 　data 7
+  
+ 　data 8
+  
+ 　data 9
+  
+ 　data 10
+  
+ 　data 11
+  
+ 　data 12
+  
+ 　data 13
+  
+ 　data 14
+  
+ 　data 15
+  
+ 　data 0
+  
+  
+  
   
 
   
