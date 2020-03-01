@@ -219,9 +219,14 @@
   
   
 ![enter image description here](https://imgur.com/4A5fhDC.jpg)
+    
   
+### ・実行環境について
+  シミュレータ等の実行やソースコード閲覧のためには
+  Javaと[ObjectEditor](https://github.com/kousoz80/ObjectEditor)のインストールが必要です。
   
-・動画
+    
+### ・動画
   
   実機の動作する様子をYoutubeで公開しています
   
