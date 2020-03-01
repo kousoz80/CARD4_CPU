@@ -354,6 +354,7 @@ inc_table:
 ### ・条件分岐
   
 // アドレスxxxの内容が0ならyyyにジャンプして1ならzzzにジャンプする
+  
   　 read 　jump_table_h
   
   　 read 　jump_table_m
