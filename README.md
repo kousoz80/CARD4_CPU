@@ -61,11 +61,11 @@
   　int inc[16]={1,2,3,5,6,7,8,9,10,11,12,13,14,15,0};
   
   
-   とすると
+   とおいて
   
   　x=inc[x];
   
-で変数xを+1することができます  　
+　とすると変数xを+1することができます  　
   
   
 ###  (4) レジスタは必要か？
@@ -353,9 +353,47 @@ inc_table:
   　
 ### ・条件分岐
   
+// アドレスxxxの内容が0ならyyyにジャンプして1ならzzzにジャンプする
+  　 read 　jump_table_h
+  
+  　 read 　jump_table_m
+  
+  　 read 　xxx
+  
+  　 jump@
   
   
+  ・
   
+  ・
+  
+  ・
+    
+
+  
+  
+xxx:
+  
+  　data 0
+  
+  
+jump_table_h:
+  
+  　data.h　 jump_table.h
+  
+jump_table_m:
+  
+  　data.m　 jump_table.m
+  
+  　align16
+  
+jump_table:
+  
+  　 jmp yyy
+  
+  　 jmp zzz
+  
+  　
   
 ###  ・演算子について
   
@@ -395,7 +433,7 @@ inc_table:
     
 ## ・動画
   
-  実機の動作する様子をYoutubeで公開しています
+  実機の動作する様子をYouTubeで公開しています
   
 https://www.youtube.com/watch?v=qONswbnE61M
 
