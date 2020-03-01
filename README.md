@@ -267,6 +267,13 @@ yyy:
   
 　 write 　xxx
   
+  
+  ・
+  
+  ・
+  
+  ・
+    
 
   
 xxx:
@@ -276,7 +283,7 @@ xxx:
   
 // インクリメント演算用テーブルのアドレス(H)
   
-　inc_table_h:
+inc_table_h:
   
 　 data.h　 inc_table.h
   
@@ -285,7 +292,7 @@ xxx:
   
 inc_table_m:
   
- data.m　 inc_table.m
+　 data.m　 inc_table.m
   
 // インクリメント演算用テーブル
   
