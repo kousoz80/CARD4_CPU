@@ -331,10 +331,11 @@ inc_table:
  　data 15
   
  　data 0
+  
   　
+  
   　
-  　
-  　
+  
   　
 ・条件分岐
   
