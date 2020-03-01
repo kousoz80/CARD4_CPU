@@ -23,7 +23,7 @@
 
   
   
-### ・一般的なCPUの構成
+### 一般的なCPUの構成
    
 ![enter image description here](https://imgur.com/lGrUWV1.jpg) 
   
@@ -56,8 +56,10 @@
   この結果をもとにCPUを再構成してみると以下のようになりました。
   
   
-(図)
+### 新しく考えた CPUの構成
   
+![enter image description here](https://imgur.com/tk3P1o5.jpg)  
+
   
   この新しく再構成したCPUをCARD4と名付けることにします。
   
@@ -66,9 +68,7 @@
   
   
 
-### ・CARD4 CPUの構成
-  
-![enter image description here](https://imgur.com/tk3P1o5.jpg)  
+
   
   
 
