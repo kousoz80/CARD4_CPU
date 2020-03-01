@@ -8,8 +8,12 @@
 
 ![enter image description here](https://imgur.com/d8OO1Yi.jpg)
   
-
-
+### ・ファイルのディレクトリ構成
+  
+  
+![enter image description here](https://imgur.com/DqaWnND.jpg)
+  
+  
 ### ・開発コンセプト
   
   
