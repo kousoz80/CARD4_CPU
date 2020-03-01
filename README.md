@@ -8,13 +8,13 @@
 
 ![enter image description here](https://imgur.com/d8OO1Yi.jpg)
   
-### ・ファイルのディレクトリ構成
+## ・ファイルのディレクトリ構成
   
   
 ![enter image description here](https://imgur.com/DqaWnND.jpg)
   
   
-### ・開発コンセプト
+## ・開発コンセプト
   
   
   
@@ -30,7 +30,7 @@
 
   まず、一般的なCPUの構成を以下に示します
   
-### ・一般的なCPUの構成
+## ・一般的なCPUの構成
    
 ![enter image description here](https://imgur.com/lGrUWV1.jpg) 
   
@@ -67,7 +67,7 @@
   この結果をもとにCPUを再構成してみると以下のようになりました。
   
   
-### ・新しく考えた CPUの構成
+## ・新しく考えた CPUの構成
   
 ![enter image description here](https://imgur.com/tk3P1o5.jpg)  
 
@@ -88,45 +88,45 @@
   
   
   
-### ・CARD4 CPUのブロック図
+## ・CARD4 CPUのブロック図
   
 ![enter image description here](https://imgur.com/IUl5qlI.jpg)  
  
   
   
   
-### ・外観
+## ・外観
   
-  (1) レジスタ(4ビット分)
+###  (1) レジスタ(4ビット分)
   
 ![enter image description here](https://imgur.com/zHtFXes.jpg)
   
-  (2) バッファ
+###  (2) バッファ
   
 ![enter image description here](https://imgur.com/JmSPqQP.jpg)
   
-  (3) セレクタ
+###  (3) セレクタ
   
 ![enter image description here](https://imgur.com/Q9V3wOw.jpg)
   
-  (4) 周辺回路(メモリ＋入出力)
+###  (4) 周辺回路(メモリ＋入出力)
   
 ![enter image description here](https://imgur.com/hhhFdSw.jpg)
   
   
-  表示装置
+###  表示装置
   
 ![enter image description here](https://imgur.com/H4PImIJ.jpg)
 
     
-  全体
+###  全体
   
 ![enter image description here](https://imgur.com/d8OO1Yi.jpg)
   
 
 
 
-### ・シミュレータ
+## ・シミュレータ
   
   
   実機のない環境でも開発/実行を体験できるようにシミュレータが用意されています。
@@ -136,17 +136,17 @@
   
 
     
-  ・実行画面
+###  ・実行画面
   
 ![enter image description here](https://imgur.com/PyoqBlu.jpg)  
   
 
-・アセンブラソースコードの編集画面
+### ・アセンブラソースコードの編集画面
   
 ![enter image description here](https://imgur.com/xseChi5.jpg)  
   
 
-### ・アセンブラの命令
+## ・アセンブラの命令
   
   org xxx
   
@@ -222,9 +222,9 @@
   ・・・Lレジスタに数値xxxをセットする
   
   
-### ・コーディング例
+## ・コーディング例
 
-・データ移動
+### ・データ移動
   
   　  //　アドレスxxxの内容をアドレスyyyにコピーする
   
@@ -247,9 +247,11 @@ yyy:
   　data 1
   
   　
+  
   　
   
-・演算
+  　
+### ・演算
 
   
   
@@ -337,13 +339,13 @@ inc_table:
   　
   
   　
-・条件分岐
+### ・条件分岐
   
   
   
   
   
-  ※演算子について
+###  ※演算子について
   
   基本的な演算の他に以下のような演算子が用意されています。
   
@@ -361,12 +363,12 @@ inc_table:
     
   
   
-### ・実機における動作の様子
+## ・実機における動作の様子
   
   実機においても操作はシミュレータと同じくパソコン上でおこないます。
   
   
-・操作画面
+### ・操作画面
   
  画面構成や操作感はシミュレータの画面とほぼ同じです
   
@@ -374,12 +376,12 @@ inc_table:
 ![enter image description here](https://imgur.com/4A5fhDC.jpg)
     
   
-### ・実行環境について
+## ・実行環境について
   シミュレータ等の実行やソースコード閲覧のためには
   Javaと[ObjectEditor](https://github.com/kousoz80/ObjectEditor)のインストールが必要です。
   
     
-### ・動画
+## ・動画
   
   実機の動作する様子をYoutubeで公開しています
   
