@@ -355,11 +355,23 @@ inc_table:
   
 // アドレスxxxの内容が0ならyyyにジャンプして1ならzzzにジャンプする
   
+  
+  
+  ・
+  
+  ・
+  
+  ・
+    
+
+  
   　 read 　jump_table_h
   
   　 read 　jump_table_m
   
   　 read 　xxx
+  
+  　 set.l
   
   　 jump@
   
