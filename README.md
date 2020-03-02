@@ -157,7 +157,14 @@
   
 ![enter image description here](https://imgur.com/xseChi5.jpg)  
   
-
+  
+  
+### ・実行結果
+  
+  
+![enter image description here](https://imgur.com/23sktb7.jpg)
+  
+  
 ## ・アセンブラの命令
   
   org xxx
